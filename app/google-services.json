@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070541819208",
+    "project_id": "authentication-e3dfa",
+    "storage_bucket": "authentication-e3dfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070541819208:android:c32654f46e4ffee493f77d",
+        "android_client_info": {
+          "package_name": "com.example.authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBibEuNPJgkI2GdqLyQ3ZaqUXOBAYzT5u8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
